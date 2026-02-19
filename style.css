@@ -83,10 +83,11 @@ display:none;
  border-radius:30px;
  cursor:pointer;
  border:solid #A435f0 1px;
+
 }
 
 .categories p:hover{
-    transition:2s;
+    transition:1s;
     background-color: transparent;
     color:black;
     border:solid #A435f0 1px;
